@@ -1269,10 +1269,10 @@
     "@babel/helper-validator-identifier" "^7.16.7"
     to-fast-properties "^2.0.0"
 
-"@braintree/sanitize-url@4.0.1":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@braintree/sanitize-url/-/sanitize-url-4.0.1.tgz#16e719eba72693f95989c05f2b3b424f2aabc5b0"
-  integrity sha512-THIQtVN491hY2rTZ/h5boj0CwDKrZQIUnfaj6RbpGwRJKfmEIgNpgcCJC3KZl1Vux9bQmdE2P4Q7cYUoSUQ4MA==
+"@braintree/sanitize-url@6.0.1":
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/@braintree/sanitize-url/-/sanitize-url-6.0.1.tgz#45ff061b9ded1c6e4474b33b336ebb1b986b825a"
+  integrity sha512-zr9Qs9KFQiEvMWdZesjcmRJlUck5NR+eKGS1uyKk+oYTWwlYrsoPEi6VmG6/TzBD1hKCGEimrhTgGS6hvn/xIQ==
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
