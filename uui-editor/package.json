@@ -10,7 +10,7 @@
     "prepublish": "yarn build"
   },
   "dependencies": {
-    "@braintree/sanitize-url": "4.0.1",
+    "@braintree/sanitize-url": "6.0.1",
     "@convertkit/slate-lists": "0.2.2",
     "@epam/assets": "4.8.5",
     "@epam/uui-components": "4.8.5",
